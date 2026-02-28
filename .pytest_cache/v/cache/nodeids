@@ -1,0 +1,5 @@
+[
+  "tests/test_site_ping.py::TestPing::test_basic",
+  "tests/test_site_ping.py::TestPing::test_empty",
+  "tests/test_site_ping.py::TestPing::test_type_error"
+]
